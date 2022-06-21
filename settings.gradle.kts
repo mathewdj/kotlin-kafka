@@ -1,1 +1,1 @@
-rootProject.name = "com.example.ktor-kotlin-kafka"
+rootProject.name = "mj.kotlin-kafka"
